@@ -122,15 +122,11 @@ All outputs are saved to specified directories within the notebook.
 
 ## Citation
 
-[Add citation information once the manuscript is published]
-
-## License
-
-[Specify appropriate license for your project]
+[We will add citation information once the manuscript is published]
 
 ## Contact
 
-For questions or issues, please contact: [Your contact information]
+For questions or issues, please contact: [ggaleano@purdue.edu]
 
 ## Troubleshooting
 
