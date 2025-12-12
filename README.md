@@ -4,6 +4,8 @@
 
 This repository contains the analysis pipeline and data for investigating synergistic boosts in short-chain fatty acid (SCFA) production across various health conditions induced by a fiber mixture. The project examines how different fiber types interact to enhance bacterial SCFA production beyond what would be expected from individual components alone.
 
+**👉 [Open the full interactive notebook in Google Colab](https://colab.research.google.com/drive/1sz2W-ZDTbgAbMhOc8fcbd20nJ6ZhEN4U?usp=sharing)** - Simply click "Run all" to execute all analyses automatically!
+
 ## Authors
 
 G. S. Galeano-Garcia¹,², T. Chen³, P. A. Engen⁴, A. Keshavarzian⁴,⁵,⁶,⁷, B. R. Hamaker¹,², T. M. Cantu-Jungles¹,²*
@@ -56,12 +58,31 @@ The analysis is designed to run in Google Colab, but can be adapted for local en
 
 ## Usage
 
-### In Google Colab
+### Quick Start: Run All in Google Colab
 
-1. Open the notebook in Google Colab
-2. Follow the markdown instructions within each section
-3. Adjust parameters in the code cells (marked with `#@param` comments) as needed
-4. Run cells sequentially
+**The easiest way to run this analysis:**
+
+1. Open the notebook directly in Google Colab: https://colab.research.google.com/drive/1sz2W-ZDTbgAbMhOc8fcbd20nJ6ZhEN4U?usp=sharing
+2. Click **Runtime** → **Run all** to execute the entire analysis pipeline automatically
+3. All analyses, visualizations, and code will be generated automatically
+
+The notebook is designed so that pressing "Run all" will:
+- Load and process your data
+- Calculate synergy metrics
+- Generate all correlation heatmaps
+- Produce publication-quality figures
+- Provide code for all analyses and visualizations
+
+No need to run cells individually!
+
+### Advanced: Customize Parameters
+
+For more control, you can:
+
+1. Open the notebook in Google Colab (link above)
+2. Adjust parameters in the code cells (marked with `#@param` comments) before running
+3. Run specific sections or cells as needed
+4. Follow the markdown instructions within each section
 
 ### Key Parameters to Customize
 
@@ -122,11 +143,11 @@ All outputs are saved to specified directories within the notebook.
 
 ## Citation
 
-[We will add citation information once the manuscript is published]
+[Adding citation information once the manuscript is published]
 
 ## Contact
 
-For questions or issues, please contact: [ggaleano@purdue.edu]
+For questions or issues, please contact: ggaleano@purdue.edu
 
 ## Troubleshooting
 
