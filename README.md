@@ -143,7 +143,7 @@ All outputs are saved to specified directories within the notebook.
 
 ## Citation
 
-[Adding citation information once the manuscript is published]
+Galeano-Garcia, G.S.; Chen, T.; Engen, P.A.; Keshavarzian, A.; Hamaker, B.R.; Cantu-Jungles, T.M. New Insights into Synergistic Boosts in SCFA Production Across Health Conditions Induced by a Fiber Mixture. Nutrients 2025, 17, doi:10.3390/nu17243904.
 
 ## Contact
 
